@@ -807,6 +807,11 @@
 
 	}
 
+	.about-text-p {
+		text-align: initial;
+		font-size: large;
+	}
+
 /* Normal */
 
 	@include breakpoint('normal') {

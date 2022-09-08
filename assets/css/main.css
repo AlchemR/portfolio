@@ -2616,6 +2616,7 @@ input, select, textarea {
 					padding: 0 1em;
 				}
 
+
 		/* Footer */
 
 			#footer .copyright li {
@@ -2631,3 +2632,8 @@ input, select, textarea {
 				}
 
 	}
+
+						.about-text-p, .about-text-p > li {
+							text-align: initial;
+							font-size: large;
+						}

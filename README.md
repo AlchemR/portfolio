@@ -17,6 +17,7 @@ I used to work in manufacturing, where I enjoyed going to work in a fast paced e
 I pride myself on being mechanically handy.  I recently built a shed to house my metal & wood working tools, micro tesla coils and laser cutter.
 
 I self-taught to play the violin and piano during the Covid Pandemic.
+
 Lastly, and most importantly, I am a recent dog person convert and have adopted an elderly collie mix named Sadie. In spite of her years, She is a strong canidate for being taught new tricks.
 
 <br>
