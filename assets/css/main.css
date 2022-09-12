@@ -1752,6 +1752,7 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
+			object-fit: contain;
 		}
 
 		.image.avatar48 {
@@ -1789,6 +1790,10 @@ input, select, textarea {
 			.image.centered img {
 				margin: 0 auto;
 				width: auto;
+			}
+
+			.image>img {
+				height: 200px;
 			}
 
 /* List */
@@ -1917,13 +1922,16 @@ input, select, textarea {
 
 		table td {
 			padding: 0.5em 1em 0.5em 1em;
+			font-size: large;
+			text-align: center;
 		}
 
 		table th {
-			text-align: left;
+			text-align: center;
 			padding: 0.5em 1em 0.5em 1em;
 			color: #fff;
 			background: #222729 url("images/overlay.png");
+			width: 50%;
 		}
 
 		table thead {
@@ -2635,5 +2643,5 @@ input, select, textarea {
 
 						.about-text-p, .about-text-p > li {
 							text-align: initial;
-							font-size: large;
+							font-size: medium;
 						}
