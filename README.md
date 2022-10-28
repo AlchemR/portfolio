@@ -26,7 +26,7 @@ I am also a full-stack software developer with a passion for problem solving in 
 
 <br>
 
-Currently, I am focusing on learning more in React Native, and rails. I strive always keep learning more!
+Currently, I am focusing on Refining & learning more in React, and Rails. I strive always keep learning more!
 
 ---
 View Portfolio:
